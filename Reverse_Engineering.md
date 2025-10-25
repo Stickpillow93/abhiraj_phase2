@@ -35,7 +35,8 @@ End of assembler dump.
 The hexadecimal no obtained is 0x86342
 
 Which when converted to decimal is 549698
-![[Screenshots/Pasted image 20251024122433.png]]
+![Photo not loading](Screenshots/Pasted%20image%2020251024122433.png)
+
 
 
 ## Flag
