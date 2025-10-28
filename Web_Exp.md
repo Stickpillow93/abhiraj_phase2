@@ -140,6 +140,7 @@ https://medium.com/@vickemboi/server-side-template-injection-ssti-a-complete-beg
 https://retherszu.github.io/vulnerabilities/web/server-side-template-injection/ssti-in-jinja2.html
 
 
+
 # Cookies:-
 
 Who doesn't love cookies? Try to figure out the best one. [http://mercury.picoctf.net:27177/](http://mercury.picoctf.net:27177/)
