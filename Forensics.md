@@ -158,7 +158,8 @@ After that the output of the photo  is:-
 picoCTF{qu1t3_a_v13w_2020}
 
 ## Resources:-
-https://www.rapidtables.com/convert/number/decimal-to-hex.html?x=1200
+https://www.rapidtables.com/convert/number/decimal-to-hex.html
+https://www.donwalizerjr.com/understanding-bmp/
 
 # m00nwalk
 
