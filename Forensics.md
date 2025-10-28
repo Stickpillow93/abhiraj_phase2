@@ -24,7 +24,8 @@ IUSEDTHEPROGRAMANDHIDITWITH-DUEDILIGENCE.CHECKOUTTHEPHOTOS
 
 Basically from these two texts I was able to infer that they hid it using program.deb since that is program given.
 
-On opening the program.deb this is what i get 
+On opening the program.deb this is what i get
+
 ![Screenshot](./Screenshots/pasted_image_1.png)
 
 From this I am able to understand that they have hidden something in the photos using steghide. Now we just need to use the same Steganography tool to open up what is in the photo.
@@ -136,14 +137,17 @@ We can clearly see the difference between the two outputs is that the picture wh
 
 
 I compared this with picture1.bmp
+
 ![Screenshot](./Screenshots/pasted_image_3.png)
 
 I converted the BAD0 in original photo to the values in picutre1.bmp and then checked the output i get. 
+
 ![Screenshot](./Screenshots/pasted_image_4.png)
 
 After some hints I realized that I needed to increase the height of the given image and to do that I needed to increase the height for that I researched for some  time and found out that from the 16th byte for the next 4 bytes hold the value of the height. 
 
 I converted 1200 to little endian format and put it over there
+
 ![Screenshot](./Screenshots/pasted_image_5.png)
 
 After that the output of the photo  is:-
