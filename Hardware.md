@@ -13,7 +13,7 @@ This challenge was just time consuming just had to learn what the different symb
 
 ## Flag
 
-nite{101101101011}
+nite{100010010100}
 
 
 # Bare Metal Alchemist
